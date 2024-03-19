@@ -2,7 +2,7 @@
 
 ## Hello! <img src="https://cdn.discordapp.com/emojis/730513541961875466.gif?size=96" width="30px">
 
-- I am [Ilgar](https://discord.com/users/852788915286441984), I am interested in software and robotic coding.
+- I am [Ilgar](https://discord.com/users/94598547172757504), I am interested in software and robotic coding.
 - I have been dealing with bot and website coding for 3,5 years.
 - I am licensed Basketball Player.
 - My Discord [Bot](https://discord.com/oauth2/authorize?client_id=971665491078823947&scope=bot&permissions=8).
@@ -16,12 +16,12 @@
 
 <div >
 <h3><img src="https://cdn.discordapp.com/emojis/735615640496504872.webp?size=96" width="30px"> Github Stat</h3>
-   <a href="https://github.com/Suleywman" target="_blank">
+   <a href="https://github.com/IlgarCaliskan" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/?username=IlgarCaliskan&show_icons=true&title_color=fff&icon_color=ffff00&text_color=9f9f9f&bg_color=151515">
    </a>
    
    <h3><img src="https://cdn.discordapp.com/emojis/657942852818436106.webp?size=96" width="30px"> Profile</h3>
    <a href="https://discord.com/users/94598547172757504" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/852788915286441984">
+      <img src="https://lanyard-profile-readme.vercel.app/api/94598547172757504">
    </a>
 </div>
