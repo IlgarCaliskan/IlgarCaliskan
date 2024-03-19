@@ -21,7 +21,7 @@
    </a>
    
    <h3><img src="https://cdn.discordapp.com/emojis/657942852818436106.webp?size=96" width="30px"> Profile</h3>
-   <a href="https://discord.com/users/852788915286441984" target="_blank">
+   <a href="https://discord.com/users/94598547172757504" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/852788915286441984">
    </a>
 </div>
