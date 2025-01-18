@@ -24,4 +24,7 @@
    <a href="https://discord.com/users/94598547172757504" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/94598547172757504">
    </a>
+ <a href="https://discord.com/users/852788915286441984" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/852788915286441984">
+   </a>
 </div>
