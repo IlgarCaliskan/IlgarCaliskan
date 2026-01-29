@@ -2,8 +2,8 @@
 
 ## Hello! <img src="https://cdn.discordapp.com/emojis/730513541961875466.gif?size=96" width="30px">
 
-- I am [Ilgar](https://discord.com/users/94598547172757504), I am interested in software and robotic coding.
-- I have been dealing with bot and website coding for 3,5 years.
+- I am [Ilgar](https://discord.com/users/94598547172757504), I am interested in website building and social media managing.
+- I have been dealing with bot and website coding for 5 years.
 - I am licensed Basketball Player.
 - My Discord [Bot](https://discord.com/oauth2/authorize?client_id=971665491078823947&scope=bot&permissions=8).
 
